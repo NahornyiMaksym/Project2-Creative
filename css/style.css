@@ -3,9 +3,9 @@
     margin: 0;
 }
 
-header {
-    margin: auto;
+header div {
     justify-content: space-between;
+    padding-top: 32px;
 }
 
 header li, a {
