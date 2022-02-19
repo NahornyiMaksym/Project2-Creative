@@ -14,6 +14,7 @@
 * {
     padding: 0;
     margin: 0;
+    font-family: "20 Kopeek";
 }
 
 header {
@@ -26,7 +27,12 @@ header div {
     justify-content: space-between;
 }
 
-header li, a {
+header li {
+    color: #ffffff;
+    font-family: "20 Kopeek";
+}
+
+header li a {
     color: #ffffff;
     font-family: "20 Kopeek";
 }
@@ -243,6 +249,7 @@ h1 {
     font-size: 55px;
     color: #181818;
     margin-right: 88px;
+    font-weight: normal;
 }
 
 .p-sec3 {
@@ -269,8 +276,147 @@ h1 {
     font-size: 26px;
     color: #ffffff;
     display: inline-block;
+    border: 0;
 }
 
 .m-left-350 {
     margin-left: 350px;
+}
+
+.section4 {
+    padding-bottom: 150px;
+}
+
+.max-w406 {
+    max-width: 406px;
+}
+
+.h5-p-blue {
+    font-size: 26px;
+    font-family: "20 Kopeek";
+    line-height: 29px;
+    font-weight: normal;
+}
+
+.p-blue-sec4 {
+    background-color: #2B59C3;
+    border-radius: 5px;
+    margin: 0 -39px 15px -14px;
+    padding: 11px 39px 18px 14px;
+    color: white;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.max-w431 {
+    max-width: 431px;
+}
+
+.p-sec4-font {
+    font-size: 18px;
+    line-height: 25px;
+    color: #181818;
+}
+
+.h5 {
+    font-size: 38px;
+    line-height: 42px;
+    font-weight: normal;
+    color: #181818;
+}
+
+.m-btm15 {
+    margin-bottom: 15px;
+}
+
+.m-btm77 {
+    margin-bottom: 77px;
+}
+
+.p-form {
+    font-size: 26px;
+    color: #181818;
+}
+
+.m-btm11 {
+    margin-bottom: 11px;
+}
+
+.d-none {
+    display: none;
+}
+
+.input {
+    padding: 23px 29px;
+    max-width: 350px;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #181818;
+    box-sizing: border-box;
+}
+
+.m-btm27 {
+    margin-bottom: 27px;
+}
+
+.f-size18 {
+    font-size: 18px;
+}
+
+.m-right11 {
+    margin-right: 11px;
+}
+
+.m-btm21 {
+    margin-bottom: 21px;
+}
+
+.color-blue {
+    color: #2B59C3;
+}
+
+.section-las {
+    padding-top: 150px;
+    padding-bottom: 20px;
+}
+
+.m-btm127 {
+    margin-bottom: 127px;
+}
+
+.m-btm30 {
+    margin-bottom: 30px;
+}
+
+.input2 {
+    padding: 23px 29px;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #181818;
+    max-width: 445px;
+    box-sizing: border-box;
+}
+
+.m-btm10 {
+    margin-bottom: 10px;
+}
+
+.max-w467 {
+    max-width: 467px;
+}
+
+.m-btm48 {
+    margin-bottom: 48px;
+
+}
+.d-ibl {
+    display: inline-block;
+}
+
+.m-btm15 {
+    margin-bottom: 15px;
+}
+
+.m-right125 {
+    margin-right: 125px;
 }
