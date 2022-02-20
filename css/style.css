@@ -167,11 +167,13 @@ h1 {
     font-size: 55px;
     line-height: 55px;
     margin-bottom: 40px;
+    font-weight: normal;
 }
 
 .big-numbers {
     font-family: "20 Kopeek";
     font-size: 55px;
+    margin-right: 8px;
 }
 
 .p-numbers {
@@ -180,12 +182,6 @@ h1 {
     padding-top: 25px;
     font-size: 18px;
     line-height: 25px;
-}
-
-.p-other {
-    font-family: "20 Kopeek";
-    font-size: 15px;
-    line-height: 19px;
 }
 
 .m-right30 {
@@ -420,3 +416,141 @@ h1 {
 .m-right125 {
     margin-right: 125px;
 }
+
+.m-btm14 {
+    margin-bottom: 14px;
+}
+
+.p-blue-sec-las {
+    max-width: 255px;
+    width: 100%;
+    background-color: #2B59C3;
+    border-radius: 10px;
+    margin-right: 30px;
+    padding: 6px 4px 12px 8px;
+    color: white;
+    font-size: 18px;
+    line-height: 25px;
+    box-sizing: border-box;
+}
+
+.m-btm25 {
+    margin-bottom: 25px;
+}
+
+.m-right103 {
+    margin-right: 103px;
+}
+
+.f-size15 {
+    font-size: 15px;
+    color: white;
+}
+
+.a-i-start {
+    align-items: start;
+}
+
+.m-btm38 {
+    margin-bottom: 38px;
+}
+
+.section5 {
+    padding-bottom: 150px;
+}
+
+.sec5-h2 {
+    font-size: 55px;
+    line-height: 55px;
+}
+
+.sec5-svg {
+    display: inline-block;
+    margin-bottom: 23px;
+}
+
+.div-svg {
+    max-width: 283px;
+    width: 100%;
+    margin-right: 97px;
+}
+
+.m-btm83 {
+    margin-bottom: 83px;
+}
+
+.p-svg {
+    font-size: 26px;
+    line-height: 29px;
+}
+
+.max-w183 {
+    max-width: 183px;
+    width: 100%;
+}
+
+.f-size15-b {
+    font-size: 15px;
+    color: #181818;
+    line-height: 19px;
+}
+
+.max-w155 {
+    max-width: 155px;
+}
+
+.m-btm62 {
+    margin-bottom: 62px;
+}
+
+.m-right24 {
+    margin-right: 24px;
+}
+
+.max-w166 {
+    max-width: 166px;
+}
+
+.section7 {
+    padding: 282px 0 80px 0;
+    background-image: url('../images/sec7-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.color-w {
+    color: white;
+}
+
+.p-numbers-s7 {
+    font-family: "20 Kopeek";
+    padding-top: 25px;
+    font-size: 15px;
+    line-height: 19px;
+    color: white;
+}
+
+.max-w150 {
+    max-width: 150px;
+}
+
+.max-w168 {
+    max-width: 168px;
+}
+
+.color-b {
+    color: #181818;
+}
+
+.m-btm-16 {
+    margin-bottom: 16px;
+}
+
+.max-w161 {
+    max-width: 161px;
+}
+
+.max-w160 {
+    max-width: 160px;
+}
+
