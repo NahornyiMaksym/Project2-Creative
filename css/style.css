@@ -837,6 +837,7 @@ h1 {
     }
     .section1 {
         background-image: url("../images/section1-adapt.jpg");
+        padding-top: 250px;
     }
     .m-right20 {
         margin-bottom: 20px;
@@ -968,6 +969,10 @@ h1 {
         line-height: 35px;
         font-weight: 400;
     }
+    .section1 {
+        background-image: url("../images/section1-adapt.jpg");
+        padding-top: 148px;
+    }
     .m-right {
         margin-right: 75px;
     }
@@ -1032,7 +1037,7 @@ h1 {
     }
 
     .max-w396 {
-        max-width: 100%;
+        max-width: 78%;
     }
     .al-it-start {
         flex-direction: column;
